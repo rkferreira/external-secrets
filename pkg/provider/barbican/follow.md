@@ -1,0 +1,1 @@
+https://github.com/external-secrets/external-secrets/commit/a25421bc61c3b96b917b75dd56ad5a03a0cb3d3d#diff-863a9219e3b199c0436202f0e1ab5d378f25c994d2e23c63da1f7a5b2e10dc2e
