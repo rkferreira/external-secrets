@@ -8828,6 +8828,20 @@ CloudruSMProvider
 <p>CloudruSM configures this store to sync secrets using the Cloud.ru Secret Manager provider</p>
 </td>
 </tr>
+<tr>
+<td>
+<code>barbican</code></br>
+<em>
+<a href="#external-secrets.io/v1.BarbicanProvider">
+BarbicanProvider
+</a>
+</em>
+</td>
+<td>
+<em>(Optional)</em>
+<p>Barbican configures this store to sync secrets using the OpenStack Barbican provider</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3 id="external-secrets.io/v1.SecretStoreRef">SecretStoreRef

@@ -210,6 +210,10 @@ type SecretStoreProvider struct {
 	// CloudruSM configures this store to sync secrets using the Cloud.ru Secret Manager provider
 	// +optional
 	CloudruSM *CloudruSMProvider `json:"cloudrusm,omitempty"`
+
+	// Barbican configures this store to sync secrets using the OpenStack Barbican provider
+	// +optional
+	Barbican *BarbicanProvider `json:"barbican,omitempty"`
 }
 
 type CAProviderType string
