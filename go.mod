@@ -138,6 +138,7 @@ require (
 	github.com/external-secrets/external-secrets/providers/v1/alibaba v0.0.0-20251103072335-a9b233b6936f
 	github.com/external-secrets/external-secrets/providers/v1/aws v0.0.0-20251103072335-a9b233b6936f
 	github.com/external-secrets/external-secrets/providers/v1/azure v0.0.0-20251103072335-a9b233b6936f
+	github.com/external-secrets/external-secrets/providers/v1/barbican v0.0.0-00010101000000-000000000000
 	github.com/external-secrets/external-secrets/providers/v1/beyondtrust v0.0.0-20251103072335-a9b233b6936f
 	github.com/external-secrets/external-secrets/providers/v1/bitwarden v0.0.0-20251103072335-a9b233b6936f
 	github.com/external-secrets/external-secrets/providers/v1/chef v0.0.0-20251103072335-a9b233b6936f
@@ -263,7 +264,6 @@ require (
 	github.com/dylibso/observe-sdk/go v0.0.0-20240828172851-9145d8ad07e1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f // indirect
-	github.com/external-secrets/external-secrets/providers/v1/barbican v0.0.0-00010101000000-000000000000 // indirect
 	github.com/extism/go-sdk v1.7.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fortanix/sdkms-client-go v0.4.1 // indirect
@@ -409,7 +409,6 @@ require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.13.0 // indirect
-	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/evanphx/json-patch/v5 v5.9.11 // indirect
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
